@@ -12,12 +12,11 @@
 ---
 
 ##### Languages I use
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![R](https://img.shields.io/badge/-R-222222?style=flat&logo=r&logoColor=276DC3)
 ![RStudio](https://img.shields.io/badge/-RStudio-222222?style=flat&logo=rstudio&logoColor=75AADB)
 ![Quarto](https://img.shields.io/badge/-Quarto-222222?style=flat&logo=quarto&logoColor=4E9FD1)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
 ##### Some of the technologies I have worked with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
